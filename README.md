@@ -1,2 +1,6 @@
-# encuentros-4os-medios
-Sitio web para el encuentro de 4° medios. Fecha del evento: 09 de Septiembre. 
+# Encuentros 4° Medios
+Este proyecto es utilizado para fines educacionales. Este sitio web creado con HTML5 y CSS con la finalidad de guiar a los alumnos de diferentes instituciones Adventistas con el formato de "Linktree". Sitio web utilizado en base original: [Encuentros 4° Medios](https://www.unach.cl/encuentro-4-medios/).
+
+
+### Autores 🔧
+* **DIRCOM**
